@@ -1,0 +1,12 @@
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\Chatting.Form1.resources
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\Chatting.Form2.resources
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\Chatting.Properties.Resources.resources
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maboudsx\Desktop\Chatting\Chatting\bin\Debug\Chatting.exe
+C:\Users\maboudsx\Desktop\Chatting\Chatting\bin\Debug\Chatting.pdb
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\Chatting.exe
+C:\Users\maboudsx\Desktop\Chatting\Chatting\obj\x86\Debug\Chatting.pdb
+C:\Users\maboudsx\Documents\Visual Studio 2010\Projects\Chatting\Chatting\obj\x86\Debug\Chatting.exe
+C:\Users\maboudsx\Documents\Visual Studio 2010\Projects\Chatting\Chatting\obj\x86\Debug\Chatting.pdb
